@@ -2114,8 +2114,8 @@ nise@^1.4.7:
     text-encoding "^0.6.4"
 
 nock@^10.0.2:
-  version "10.0.4"
-  resolved "https://registry.yarnpkg.com/nock/-/nock-10.0.4.tgz#44f5dcfe0a6b09f95d541f6b3f057cfabbbd2a3a"
+  version "10.0.6"
+  resolved "https://registry.yarnpkg.com/nock/-/nock-10.0.6.tgz#e6d90ee7a68b8cfc2ab7f6127e7d99aa7d13d111"
   dependencies:
     chai "^4.1.2"
     debug "^4.1.0"
